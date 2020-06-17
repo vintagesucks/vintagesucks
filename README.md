@@ -1,2 +1,1 @@
-# vintagesucks
-It's a me.
+Hello. 👋
