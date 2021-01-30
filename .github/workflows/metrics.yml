@@ -16,5 +16,4 @@ jobs:
           user: vintagesucks
           template: classic
           base: header, activity, community
-          config_animated: yes
           config_timezone: Europe/Berlin
