@@ -15,9 +15,6 @@ jobs:
           # Options
           user: vintagesucks
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community
           config_animated: yes
           config_timezone: Europe/Berlin
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_source: dev.to
